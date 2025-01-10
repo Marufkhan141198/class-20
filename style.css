@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.custom-f {
+    color: brown !important;
+}
+.bg-color{
+    /* background-color: blue !important; */
+    background-color: rgb(59, 59, 186);
+}
+.custom-fc {
+    color: aliceblue !important;
+}
+.custom-height{
+    height: 400px;
+}
+.custom-b{
+    background: none;
+}
+.content {
+    display:;
+}
+.custom-p{
+    text-align: center;
+    font-weight: 600;
+    background-color: blue;
+    color: aliceblue;
+}
+.custom-div{
+    
+margin-right: px;
+}
